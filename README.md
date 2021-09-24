@@ -1,2 +1,2 @@
-# ceph
-rook
+# rook-ceph
+
